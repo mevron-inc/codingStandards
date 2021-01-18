@@ -1,6 +1,6 @@
 # Development Standards
 
-*This document describes conventions, approaches, practices, technologies and standards that are accepted and practiced by MLSDev. In other words, it describes how we do the things.*
+*This document describes conventions, approaches, practices, technologies and standards that are accepted and practiced by Mevron. In other words, it describes how we do the things.*
 
 *This document is updated frequently. Our practices and standards are subject to change as software development world evolve.*
 
