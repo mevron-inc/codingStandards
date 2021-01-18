@@ -34,9 +34,9 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ## About Mevron
 
-[<img src="/mlsdev-logo.png" alt="MLSDev.com">][mlsdev]
+[https://www.mevron.com/assets/img/front/mevron_logo.png">][mevron]
 
-Coding Standards are maintained by Mevron, Inc. We specialize in providing all-in-one solution in mobile and web development. Our team follows Lean principles and works according to agile methodologies to deliver the best results reducing the budget for development and its timeline. 
+Coding Standards are maintained by Mevron. We specialize in providing all-in-one solution in mobile and web development. Our team follows Lean principles and works according to agile methodologies to deliver the best results reducing the budget for development and its timeline. 
 
 Find out more [here][mevron] and don't hesitate to [contact us][contact]!
 
